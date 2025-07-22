@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">A FULL-STACK MOBILE AND WEB DEVELOPER</h1>
 
-👋Hello, i'm Adebayo Olowofoyeku. I'm a Full-Stack Software Engineer specialized in mobile applicationa and web development.
-I develop websites using the ReactJs framework and NodeJs, basically I am a MERN stack developer.
-I also develop mobile applications using React Native.
-I have worked on many different projects, apps and websites for businesses and as personal projects.  
+👋Hello, i'm Adebayo Nathaniel Olowofoyeku. I'm a Full-Stack Software Engineer specialized in mobile applications and web development.
+I'm a full-stack developer with expertise in MongoDB, Express, React.js, Node.js and cross-platform mobile development using React Native. 
+My skill set expands to include Python-based frameworks like FastAPI and Django, Golang, as well as C# and the .NET ecosystem. 
+I’ve built and deployed a wide range of web and mobile applications for businesses and personal projects, focusing on performance, scalability, and clean architecture. I'm also exploring quantitative development, combining programming with data and finance.
 <!-- Starting my GitHub journey in the month of May and the year 2022. Let's see how far I go🚀🚀.    -->
 
 **If you have any gig or project for me contact me on any of the socials below👇👇**
