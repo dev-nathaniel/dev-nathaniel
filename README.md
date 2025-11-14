@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">A FULL-STACK MOBILE AND WEB DEVELOPER</h1>
 
-👋Hello, i'm Adebayo Nathaniel Olowofoyeku. I'm a Full-Stack Software Engineer specialized in mobile applications and web development.
+👋Hello, i'm Adebayo Nathaniel Olowofoyeku. I'm a Full-Stack Software Engineer specialized in mobile applications, web development and quantitative finance.
 I'm a full-stack developer with expertise in MongoDB, Express, React.js, Node.js and cross-platform mobile development using React Native. 
-My skill set expands to include Python-based frameworks like FastAPI and Django, Golang, as well as C# and the .NET ecosystem. 
+My skill set expands to include Python-based frameworks like FastAPI and Django, Golang, C++, Arduino as well as C# and the .NET ecosystem. 
 I’ve built and deployed a wide range of web and mobile applications for businesses and personal projects, focusing on performance, scalability, and clean architecture. I'm also exploring quantitative development, combining programming with data and finance.
 <!-- Starting my GitHub journey in the month of May and the year 2022. Let's see how far I go🚀🚀.    -->
 
